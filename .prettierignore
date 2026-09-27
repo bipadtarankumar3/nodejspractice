@@ -1,0 +1,11 @@
+/.vscode/
+/.claude/
+/.idea/
+/.history/
+/node_modules/
+.cursor/
+./dist
+
+*.env
+.env
+.env.*
